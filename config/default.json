@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "mongoUrl":"mongodb+srv://innainna:innainna123456@cluster0-4nia9.mongodb.net/auth?retryWrites=true&w=majority",
-  "jwtSecret": "inna experience",
-  "baseUrl": "http://localhost:5000"
-}
